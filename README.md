@@ -2,6 +2,10 @@
 
 This is a simple HTML page that lets you play **Soccer Random** in the browser.
 
+## How to Open the Game
+
+https://seabassmarin-beep.github.io/Free-Online-Game-Football/
+
 ## How to Play
 
 Use the **Up Arrow** key only.
@@ -17,10 +21,6 @@ Sorry about the ads 😭
 The game is loaded from Playgama using an iframe, so the ads come from Playgama, not from this project.
 
 I tried to reduce them, but ads inside the iframe cannot be fully removed with normal HTML.
-
-## How to Open the Game
-
-Coming soon
 
 ## Files
 

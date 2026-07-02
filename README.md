@@ -20,9 +20,7 @@ I tried to reduce them, but ads inside the iframe cannot be fully removed with n
 
 ## How to Open the Game
 
-Open this file in your browser:
-
-`Game_page1.html`
+Coming soon
 
 ## Files
 

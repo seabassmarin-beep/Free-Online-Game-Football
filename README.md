@@ -22,6 +22,8 @@ The game is loaded from Playgama using an iframe, so the ads come from Playgama,
 
 I tried to reduce them, but ads inside the iframe cannot be fully removed with normal HTML.
 
+This may work, it does for me, when there is an ad on the page, like a video, go to a different tab then back without closing it. It works on safari.
+
 ## Files
 
 - `Game_page1.html` — the game page
